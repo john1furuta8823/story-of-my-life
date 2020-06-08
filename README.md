@@ -6,7 +6,7 @@
     <title>Progate</title>
     <link rel="stylesheet" href="stylesheet.css">
   </head>
- <body>
+  <body>
  <a href="https://google.com">グーグルへ</a>
   <ol>
     <li>松</li>
