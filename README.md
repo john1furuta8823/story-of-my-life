@@ -4,7 +4,7 @@
   <head>
     <meta charset="utf-8">
     <title>Progate</title>
-    <link rel="stylesheet" type="text/css" href="stylesheet.css">
+    <link rel="stylesheet" href="stylesheet.css">
   </head>
  <body>
  <a href="https://google.com">グーグルへ</a>
